@@ -1,0 +1,10 @@
+.layout {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 150vh;
+  footer {
+    margin-top: auto;
+  }
+}
